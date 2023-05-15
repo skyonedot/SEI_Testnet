@@ -1,0 +1,7 @@
+FakeComplete/complete_sei.txt
+node_modules/
+nohup.out
+wallet_balance.txt
+wallet_proxy.txt
+.env
+wallet_real.txt
